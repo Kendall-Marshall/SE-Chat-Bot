@@ -1,0 +1,44 @@
+{
+  "id": "33fb4168-cff5-4018-b4c1-f5b1f9627172",
+  "name": "Pre-Requisites for First Year",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sayHello",
+      "affectedContexts": [
+        {
+          "name": "paper-set",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1040330e-815e-4739-a7a3-25bbc7dc9626",
+          "required": false,
+          "dataType": "@firstYearPapers",
+          "name": "paperName",
+          "value": "$paperName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$paperName has no Pre-Requisites"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525852378,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "value": "Applied Communication",
+    "synonyms": [
+      "Applied Communication",
+      "COMM501"
+    ]
+  },
+  {
+    "value": "Programming 1",
+    "synonyms": [
+      "Programming 1",
+      "COMP500"
+    ]
+  },
+  {
+    "value": "Computing Technology in Society",
+    "synonyms": [
+      "Computing Technology in Society",
+      "COMP501"
+    ]
+  },
+  {
+    "value": "Foundations of IT Infrastructure",
+    "synonyms": [
+      "Foundations of IT Infrastructure",
+      "COMP502"
+    ]
+  },
+  {
+    "value": "Programming 2",
+    "synonyms": [
+      "COMP503",
+      "Programming 2"
+    ]
+  },
+  {
+    "value": "Computer Network Principles",
+    "synonyms": [
+      "Computer Network Principles",
+      "ENEL504"
+    ]
+  },
+  {
+    "value": "Enterprise Systems",
+    "synonyms": [
+      "Enterprise Systems",
+      "INFS500"
+    ]
+  }
+]

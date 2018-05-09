@@ -1,0 +1,54 @@
+[
+  {
+    "id": "85fc6205-ba1c-469f-9c94-92be20f333da",
+    "data": [
+      {
+        "text": "final year papers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525828909
+  },
+  {
+    "id": "da3ea41c-cec8-487b-bead-69e7cc1b17f3",
+    "data": [
+      {
+        "text": "third year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " papers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525828909
+  },
+  {
+    "id": "1fc44208-d2cf-41fc-99e8-3a89bad95f1a",
+    "data": [
+      {
+        "text": "level ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " papers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525828909
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "c8baf3b0-a3df-48e1-ad12-2cd040e7eca9",
+  "name": "i want to study software development",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "11255dbb-2f9b-4fb2-8f3a-a6bec310ac49",
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525669133,
+  "fallbackIntent": false,
+  "events": []
+}

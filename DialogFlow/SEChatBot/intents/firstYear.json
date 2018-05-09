@@ -1,0 +1,57 @@
+{
+  "id": "30984560-69dc-4b12-8051-a86bf3ae0a42",
+  "name": "firstYear",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sayHello",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "648b563e-33c7-4cd7-bd9f-55d4b1d04831",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        },
+        {
+          "id": "bfa75c48-8757-4b76-950a-5e4ab943e2b4",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "9f9aeeff-36aa-4963-ae6a-2839b24a9c05",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here is a list of first year papers with no Pre-requisites\n - COMM501 Applied Communication \n - COMP500 Programming 1\n - COMP501 Computing Technology in Society \n - COMP502 Foundations of IT Infrastructure\n - COMP503 Programming 2\n - ENEL504 Computer Network Principles\n - INFS500 Enterprise Systems",
+            "Here is a list of first year papers: \n\n - COMM501 Applied Communication \n - COMP500 Programming 1\n - COMP501 Computing Technology in Society \n - COMP502 Foundations of IT Infrastructure\n - COMP503 Programming 2\n - ENEL504 Computer Network Principles\n - INFS500 Enterprise Systems"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525852255,
+  "fallbackIntent": false,
+  "events": []
+}

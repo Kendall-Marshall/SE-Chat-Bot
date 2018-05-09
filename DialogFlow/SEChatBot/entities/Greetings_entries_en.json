@@ -1,0 +1,20 @@
+[
+  {
+    "value": "Hello",
+    "synonyms": [
+      "Hello"
+    ]
+  },
+  {
+    "value": "Good Day",
+    "synonyms": [
+      "Good Day"
+    ]
+  },
+  {
+    "value": "Hi",
+    "synonyms": [
+      "Hi"
+    ]
+  }
+]

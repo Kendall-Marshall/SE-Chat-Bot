@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ba19ddf3-6fc0-4118-aefd-fcfbde22c65d",
+    "data": [
+      {
+        "text": "hi",
+        "alias": "Greetings",
+        "meta": "@Greetings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525818149
+  },
+  {
+    "id": "0b3c9da7-8d02-44d1-a96f-38ab4e79abee",
+    "data": [
+      {
+        "text": "hello",
+        "alias": "Greetings",
+        "meta": "@Greetings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525818149
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "c27c9069-cc8f-4cb1-94a1-4897cb8db6d3",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sayHello",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d961d4a2-176b-49e5-879f-f3ffcf68d27f",
+          "dataType": "@Greetings",
+          "name": "Greetings",
+          "value": "$Greetings",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi!",
+            "Hello!",
+            "Good day!",
+            "Greetings!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525818149,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

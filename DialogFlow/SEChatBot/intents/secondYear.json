@@ -1,0 +1,64 @@
+{
+  "id": "711c5efd-2346-4b61-a534-22186b301afe",
+  "name": "secondYear",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8bcf1716-1af4-449f-8d6b-994db7b877ca",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        },
+        {
+          "id": "6a2bde0c-b082-46ad-bb26-21fc9bfcaf20",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "3efbb567-1103-4d52-adbe-c3b0111067b6",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "0d875a50-8635-46bf-82c7-d99ca05c1a09",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here is a list of papers you can take in Second Year:\n \n - COMP600 IT Project Management\n - COMP602 Software Development Practice\n - COMP603 Program Design and Construction\n - INFS600 Data and Process Modelling\n - INFS601 Logical Database Design",
+            "Here are some papers you can take in Second Year: \n\n - COMP600 IT Project Management\n - COMP602 Software Development Practice\n - COMP603 Program Design and Construction\n - INFS600 Data and Process Modelling\n - INFS601 Logical Database Design"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525828761,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca2feeae-f80c-49a2-bf30-f8e743547b74",
+  "name": "Second Year Pre-Reqs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "439ed96c-46cb-4a2c-86e9-c2797c35fb52",
+          "required": false,
+          "dataType": "@secondYearPapers",
+          "name": "paperName",
+          "value": "$paperName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$paperName has no Pre-Requisites"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525829683,
+  "fallbackIntent": false,
+  "events": []
+}

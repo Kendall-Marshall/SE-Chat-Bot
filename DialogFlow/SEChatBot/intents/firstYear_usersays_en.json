@@ -1,0 +1,121 @@
+[
+  {
+    "id": "7baacccd-c363-4221-8d86-aef2c2fb5acc",
+    "data": [
+      {
+        "text": "level ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " papers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525828816
+  },
+  {
+    "id": "459b4ebb-ec19-40ac-85fd-90eb6662fcca",
+    "data": [
+      {
+        "text": "First Year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525687334
+  },
+  {
+    "id": "54df0de4-327d-48c2-98cd-eb02c076efed",
+    "data": [
+      {
+        "text": "First",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " Year Study",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525687334
+  },
+  {
+    "id": "0a399b8d-fd4e-4890-8f1f-ce97cee96020",
+    "data": [
+      {
+        "text": "What can i study ",
+        "userDefined": false
+      },
+      {
+        "text": "in first year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525687334
+  },
+  {
+    "id": "c5f9a2de-31e7-4962-8e85-d2b4748e97f4",
+    "data": [
+      {
+        "text": "What do i need to study ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525687334
+  },
+  {
+    "id": "9ed78cc4-a13d-4f86-a695-5a29ea923700",
+    "data": [
+      {
+        "text": "First Year Papers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525687334
+  },
+  {
+    "id": "d55f574b-1b12-4ecd-a06f-750709e901d3",
+    "data": [
+      {
+        "text": "What should i study in my ",
+        "userDefined": false
+      },
+      {
+        "text": "first year",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525687334
+  }
+]

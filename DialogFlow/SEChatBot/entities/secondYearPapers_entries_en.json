@@ -1,0 +1,51 @@
+[
+  {
+    "value": "IT Project Management",
+    "synonyms": [
+      "IT Project Management",
+      "COMP600"
+    ]
+  },
+  {
+    "value": "Software Development Practice",
+    "synonyms": [
+      "Software Development Practice",
+      "COMP602"
+    ]
+  },
+  {
+    "value": "Program Design and Construction",
+    "synonyms": [
+      "Program Design and Construction",
+      "COMP603"
+    ]
+  },
+  {
+    "value": "Data and Process Modelling",
+    "synonyms": [
+      "INFS600",
+      "Data and Process Modelling"
+    ]
+  },
+  {
+    "value": "Logical Database Design",
+    "synonyms": [
+      "Logical Database Design",
+      "INFS601"
+    ]
+  },
+  {
+    "value": "Operating Systems",
+    "synonyms": [
+      "Operating Systems",
+      "COMP604"
+    ]
+  },
+  {
+    "value": "Physical Database Design",
+    "synonyms": [
+      "Physical Database Design",
+      "INFS602"
+    ]
+  }
+]

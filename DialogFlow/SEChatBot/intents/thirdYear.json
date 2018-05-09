@@ -1,0 +1,48 @@
+{
+  "id": "6ad53ff0-f70a-45f3-9fb3-76ec24814a94",
+  "name": "thirdYear",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa7c4069-082c-469b-b8e6-2699ec2bfbf5",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "f04e5899-192d-41a9-8cab-71e77b7cd92d",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here is a list of papers you can take in Third Year:\n - COMP704 Research and Development Project\n - COMP719 Applied Human Computer\n - ENSE701 Contemporary Methods in Software Engineering\n - COMP713 Distributed and Mobile Systems \n - COMP721 Web Development\n**Plus three elective papers from the BCIS School",
+            "Here are some papers you can take in Third Year:\n - COMP704 Research and Development Project\n - COMP719 Applied Human Computer\n - ENSE701 Contemporary Methods in Software Engineering\n - COMP713 Distributed and Mobile Systems \n - COMP721 Web Development\n**Plus three elective papers from the BCIS School"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525829094,
+  "fallbackIntent": false,
+  "events": []
+}
