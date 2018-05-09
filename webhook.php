@@ -24,13 +24,13 @@
     function processMessage($update) {
         //$pre = setupDB($paper);
         if($update["result"]["action"] == "sayHello" ){
-            $paper = $update["result"]["parameters"]["paperName"];
+            $paper = $update["result"]["parameters"]["paperName1"];
             
             
             sendMessage(array(
                 "source" => $update["result"]["source"],
-                "speech" => "Hello from webhook" . $paper,
-                "displayText" => "Hello from webhook"  . $paper,
+                "speech" => "Hello from webhook " . $paper,
+                "displayText" => "Hello from webhook "  . $paper,
                 "contextOut" => array()
             ));
         }
